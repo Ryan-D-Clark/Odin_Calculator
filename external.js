@@ -30,6 +30,7 @@ for(let child of operators.children){
                         total = firstValue + secondValue
                         break
                     case "-":
+                        
                 }
             }
         }
